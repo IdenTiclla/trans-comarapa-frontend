@@ -17,6 +17,12 @@
             <a class="nav-link" href="#horarios">Horarios</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="#encomiendas">Encomiendas</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#delegaciones">Delegaciones</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="#contacto">Contacto</a>
           </li>
         </ul>
