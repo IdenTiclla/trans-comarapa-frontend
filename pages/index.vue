@@ -26,7 +26,7 @@
           <h2 class="fw-bold">¿Por qué elegir TransComarapa?</h2>
           <p class="lead text-muted">Servicio de calidad en la ruta Comarapa - Santa Cruz</p>
         </div>
-        
+
         <div class="row g-4">
           <div class="col-md-4">
             <div class="feature-card">
@@ -37,7 +37,7 @@
               <p>Flota de vehículos modernos con mantenimiento constante y conductores profesionales.</p>
             </div>
           </div>
-          
+
           <div class="col-md-4">
             <div class="feature-card">
               <div class="feature-icon">
@@ -47,7 +47,7 @@
               <p>Cumplimos con los horarios establecidos para que llegues a tiempo a tu destino.</p>
             </div>
           </div>
-          
+
           <div class="col-md-4">
             <div class="feature-card">
               <div class="feature-icon">
@@ -60,7 +60,7 @@
         </div>
       </div>
     </section>
-    
+
     <!-- Horarios Section -->
     <section id="horarios" class="py-5 bg-light">
       <div class="container">
@@ -68,7 +68,7 @@
           <h2 class="fw-bold">Horarios de Salida</h2>
           <p class="lead text-muted">Consulta nuestros horarios desde Comarapa y Santa Cruz</p>
         </div>
-        
+
         <div class="row mb-4">
           <div class="col-md-6">
             <div class="card h-100">
@@ -96,7 +96,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-md-6">
             <div class="card h-100">
               <div class="card-header bg-primary text-white">
@@ -124,7 +124,7 @@
             </div>
           </div>
         </div>
-        
+
         <div class="card mt-4">
           <div class="card-body">
             <p class="text-center mb-0">
@@ -135,7 +135,7 @@
         </div>
       </div>
     </section>
-    
+
     <!-- Encomiendas Section -->
     <section id="encomiendas" class="py-5">
       <div class="container">
@@ -143,7 +143,7 @@
           <h2 class="fw-bold">Servicio de Encomiendas</h2>
           <p class="lead text-muted">Envía tus paquetes y encomiendas con seguridad y rapidez</p>
         </div>
-        
+
         <div class="row align-items-center mb-5">
           <div class="col-lg-6 mb-4 mb-lg-0">
             <img src="https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Servicio de Encomiendas" class="img-fluid rounded-4 shadow">
@@ -188,7 +188,7 @@
             </div>
           </div>
         </div>
-        
+
         <div class="row mt-5">
           <div class="col-md-4 mb-4">
             <div class="card h-100 pricing-card">
@@ -209,7 +209,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-md-4 mb-4">
             <div class="card h-100 pricing-card">
               <div class="card-body text-center p-4">
@@ -229,7 +229,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-md-4 mb-4">
             <div class="card h-100 pricing-card">
               <div class="card-body text-center p-4">
@@ -250,7 +250,7 @@
             </div>
           </div>
         </div>
-        
+
         <div class="text-center mt-4">
           <p class="mb-4">Para mayor información sobre tarifas especiales para envíos frecuentes o paquetes de mayor tamaño, contáctanos directamente.</p>
           <a href="tel:+59131234567" class="btn btn-primary btn-lg">
@@ -259,7 +259,7 @@
         </div>
       </div>
     </section>
-    
+
     <!-- Delegaciones Section -->
     <section id="delegaciones" class="py-5 bg-light">
       <div class="container">
@@ -267,7 +267,7 @@
           <h2 class="fw-bold">Servicio de Delegaciones</h2>
           <p class="lead text-muted">Viajes grupales para empresas, familias o eventos especiales</p>
         </div>
-        
+
         <div class="row align-items-center mb-5">
           <div class="col-lg-6 order-lg-2 mb-4 mb-lg-0">
             <img src="https://images.unsplash.com/photo-1464219789935-c2d9d9aba644?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Viajes grupales" class="img-fluid rounded-4 shadow">
@@ -276,7 +276,7 @@
             <div class="delegation-content">
               <h3 class="mb-4">Transportamos tu grupo con comodidad y seguridad</h3>
               <p class="lead">Contamos con buses exclusivos para traslados grupales, ideales para:</p>
-              
+
               <div class="delegation-items mt-4">
                 <div class="delegation-item mb-4">
                   <div class="d-flex">
@@ -289,7 +289,7 @@
                     </div>
                   </div>
                 </div>
-                
+
                 <div class="delegation-item mb-4">
                   <div class="d-flex">
                     <div class="delegation-icon">
@@ -301,7 +301,7 @@
                     </div>
                   </div>
                 </div>
-                
+
                 <div class="delegation-item mb-4">
                   <div class="d-flex">
                     <div class="delegation-icon">
@@ -313,7 +313,7 @@
                     </div>
                   </div>
                 </div>
-                
+
                 <div class="delegation-item">
                   <div class="d-flex">
                     <div class="delegation-icon">
@@ -329,7 +329,7 @@
             </div>
           </div>
         </div>
-        
+
         <div class="row mt-4">
           <div class="col-md-4 mb-4 mb-md-0">
             <div class="card h-100 benefit-card">
@@ -342,7 +342,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-md-4 mb-4 mb-md-0">
             <div class="card h-100 benefit-card">
               <div class="card-body">
@@ -354,7 +354,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-md-4">
             <div class="card h-100 benefit-card">
               <div class="card-body">
@@ -367,7 +367,7 @@
             </div>
           </div>
         </div>
-        
+
         <div class="delegation-cta text-center mt-5 p-4 rounded-4">
           <h4 class="text-white mb-3">¿Necesitas transporte para tu grupo?</h4>
           <p class="text-white-80 mb-4">Contáctanos para recibir una cotización personalizada según las necesidades de tu grupo</p>
@@ -382,7 +382,7 @@
         </div>
       </div>
     </section>
-    
+
     <!-- Testimonials -->
     <section class="testimonials py-5">
       <div class="container">
@@ -390,7 +390,7 @@
           <h2 class="fw-bold">Lo que dicen nuestros pasajeros</h2>
           <p class="lead text-muted">Experiencias reales de quienes confían en nuestro servicio</p>
         </div>
-        
+
         <div class="row g-4">
           <div class="col-lg-4">
             <div class="testimonial-card">
@@ -409,7 +409,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-lg-4">
             <div class="testimonial-card">
               <div class="testimonial-quote">
@@ -427,7 +427,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-lg-4">
             <div class="testimonial-card">
               <div class="testimonial-quote">
@@ -448,7 +448,7 @@
         </div>
       </div>
     </section>
-    
+
     <!-- Contact Section -->
     <section id="contacto" class="py-5 bg-light">
       <div class="container">
@@ -456,7 +456,7 @@
           <h2 class="fw-bold">Contáctanos</h2>
           <p class="lead text-muted">Estamos para ayudarte en lo que necesites</p>
         </div>
-        
+
         <div class="row">
           <div class="col-lg-4 mb-4 mb-lg-0">
             <div class="card h-100">
@@ -471,7 +471,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-lg-4 mb-4 mb-lg-0">
             <div class="card h-100">
               <div class="card-body text-center">
@@ -485,7 +485,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-lg-4">
             <div class="card h-100">
               <div class="card-body text-center">
@@ -507,7 +507,7 @@
 
 <style scoped>
 .hero {
-  background: linear-gradient(135deg, #1a2a6c, #b21f1f);
+  background: linear-gradient(135deg, var(--comarapa-green-dark), var(--comarapa-green));
   padding: 6rem 0;
   margin-bottom: 2rem;
 }
@@ -538,12 +538,12 @@
 .feature-icon {
   margin-bottom: 1.5rem;
   font-size: 2.5rem;
-  color: #ffc107;
+  color: var(--comarapa-green);
 }
 
 .feature-icon-small {
   font-size: 1.8rem;
-  color: #ffc107;
+  color: var(--comarapa-green);
   min-width: 40px;
   text-align: center;
 }
@@ -558,7 +558,7 @@
 
 .testimonial-quote {
   font-size: 2rem;
-  color: #ffc107;
+  color: var(--comarapa-green);
   margin-bottom: 1rem;
 }
 
@@ -570,23 +570,23 @@
 }
 
 .btn-primary {
-  background-color: #ffc107;
-  border-color: #ffc107;
-  color: #212529;
+  background-color: var(--comarapa-green);
+  border-color: var(--comarapa-green);
+  color: var(--comarapa-white);
 }
 
 .btn-primary:hover {
-  background-color: #ffca2c;
-  border-color: #ffca2c;
+  background-color: var(--comarapa-green-dark);
+  border-color: var(--comarapa-green-dark);
 }
 
 .badge.bg-primary {
-  background-color: #ffc107 !important;
-  color: #212529;
+  background-color: var(--comarapa-green) !important;
+  color: var(--comarapa-white);
 }
 
 .card-header.bg-primary {
-  background-color: #1a2a6c !important;
+  background-color: var(--comarapa-green-dark) !important;
 }
 
 .schedule-item {
@@ -615,11 +615,11 @@
 
 .contact-icon {
   font-size: 2.5rem;
-  color: #ffc107;
+  color: var(--comarapa-green);
 }
 
 .text-primary {
-  color: #ffc107 !important;
+  color: var(--comarapa-green) !important;
 }
 
 .pricing-card {
@@ -636,7 +636,7 @@
 
 .package-icon {
   font-size: 2.5rem;
-  color: #ffc107;
+  color: var(--comarapa-green);
   margin-bottom: 1rem;
 }
 
@@ -651,14 +651,14 @@
 }
 
 .price h3 {
-  color: #ffc107;
+  color: var(--comarapa-green);
   font-weight: bold;
 }
 
 /* Delegaciones Styles */
 .delegation-icon {
   font-size: 1.8rem;
-  color: #ffc107;
+  color: var(--comarapa-green);
   min-width: 40px;
   text-align: center;
 }
@@ -691,11 +691,11 @@
 
 .benefit-icon {
   font-size: 2.2rem;
-  color: #ffc107;
+  color: var(--comarapa-green);
 }
 
 .delegation-cta {
-  background: linear-gradient(135deg, #1a2a6c, #b21f1f);
+  background: linear-gradient(135deg, var(--comarapa-green-dark), var(--comarapa-green));
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 </style>

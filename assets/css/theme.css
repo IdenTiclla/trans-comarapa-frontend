@@ -1,0 +1,65 @@
+/* Comarapa Theme Colors - Green and White */
+:root {
+  /* Primary Colors - Green Shades */
+  --comarapa-green-dark: #0a5c36;  /* Dark green */
+  --comarapa-green: #1e8449;       /* Medium green */
+  --comarapa-green-light: #27ae60; /* Light green */
+  --comarapa-green-pale: #a9dfbf;  /* Very light green */
+  
+  /* Secondary Colors - White and Neutrals */
+  --comarapa-white: #ffffff;
+  --comarapa-off-white: #f8f9fa;
+  --comarapa-light-gray: #e9ecef;
+  
+  /* Text Colors */
+  --comarapa-text-dark: #212529;
+  --comarapa-text-light: #f8f9fa;
+  
+  /* Override Bootstrap Colors */
+  --bs-primary: var(--comarapa-green);
+  --bs-primary-rgb: 30, 132, 73;
+}
+
+/* Global Style Overrides */
+.bg-primary {
+  background-color: var(--comarapa-green) !important;
+}
+
+.text-primary {
+  color: var(--comarapa-green) !important;
+}
+
+.btn-primary {
+  background-color: var(--comarapa-green) !important;
+  border-color: var(--comarapa-green) !important;
+  color: var(--comarapa-white) !important;
+}
+
+.btn-primary:hover {
+  background-color: var(--comarapa-green-dark) !important;
+  border-color: var(--comarapa-green-dark) !important;
+}
+
+.btn-outline-primary {
+  border-color: var(--comarapa-green) !important;
+  color: var(--comarapa-green) !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--comarapa-green) !important;
+  color: var(--comarapa-white) !important;
+}
+
+.badge.bg-primary {
+  background-color: var(--comarapa-green) !important;
+  color: var(--comarapa-white) !important;
+}
+
+.card-header.bg-primary {
+  background-color: var(--comarapa-green-dark) !important;
+}
+
+/* Gradient Backgrounds */
+.comarapa-gradient {
+  background: linear-gradient(135deg, var(--comarapa-green-dark), var(--comarapa-green));
+}

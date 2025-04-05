@@ -4,7 +4,7 @@
       <NuxtLink class="navbar-brand" :to="{name: 'index'}">
         <i class="bi bi-bus-front me-2"></i>TransComarapa
       </NuxtLink>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
               aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -39,7 +39,7 @@
 
 <style scoped>
 .navbar {
-  background: linear-gradient(135deg, #1a2a6c, #b21f1f);
+  background: linear-gradient(135deg, var(--comarapa-green-dark), var(--comarapa-green));
   padding: 1rem 0;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
@@ -59,22 +59,22 @@
 
 .nav-link:hover, .nav-link.active {
   color: white !important;
-  border-bottom: 2px solid #ffc107;
+  border-bottom: 2px solid var(--comarapa-white);
 }
 
 .btn-primary {
-  background-color: #ffc107;
-  border-color: #ffc107;
-  color: #212529;
+  background-color: var(--comarapa-green-light);
+  border-color: var(--comarapa-green-light);
+  color: var(--comarapa-white);
   font-weight: 500;
 }
 
 .btn-primary:hover {
-  background-color: #ffca2c;
-  border-color: #ffca2c;
+  background-color: var(--comarapa-green);
+  border-color: var(--comarapa-green);
 }
 
 .btn-outline-light:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
-</style> 
+</style>

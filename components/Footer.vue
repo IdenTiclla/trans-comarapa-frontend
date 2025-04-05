@@ -12,7 +12,7 @@
             <a href="#" class="social-icon"><i class="bi bi-whatsapp"></i></a>
           </div>
         </div>
-        
+
         <div class="col-lg-4 col-md-6">
           <h5 class="text-white mb-3">Horarios de Atención</h5>
           <ul class="list-unstyled footer-contact">
@@ -21,7 +21,7 @@
             <li class="mt-3 text-white-80"><i class="bi bi-info-circle text-warning"></i> Recomendamos llegar 30 minutos antes de la salida</li>
           </ul>
         </div>
-        
+
         <div class="col-lg-4 col-md-6">
           <h5 class="text-white mb-3">Contacto</h5>
           <ul class="list-unstyled footer-contact">
@@ -33,9 +33,9 @@
           </ul>
         </div>
       </div>
-      
+
       <hr class="my-4 bg-light">
-      
+
       <div class="row">
         <div class="col-md-12 text-center">
           <p class="text-white-80 mb-0">&copy; {{ new Date().getFullYear() }} TransComarapa. Todos los derechos reservados.</p>
@@ -47,7 +47,7 @@
 
 <style scoped>
 .footer {
-  background: linear-gradient(135deg, #1a2a6c, #b21f1f);
+  background: linear-gradient(135deg, var(--comarapa-green-dark), var(--comarapa-green));
   color: #fff;
   padding: 3rem 0 1.5rem;
 }
@@ -65,7 +65,7 @@
 }
 
 .text-warning {
-  color: #ffc107 !important;
+  color: var(--comarapa-green-light) !important;
 }
 
 .social-links {
@@ -86,12 +86,12 @@
 }
 
 .social-icon:hover {
-  background-color: #ffc107;
-  color: #212529;
+  background-color: var(--comarapa-green-light);
+  color: var(--comarapa-white);
   transform: translateY(-3px);
 }
 
 hr {
   border-color: rgba(255, 255, 255, 0.2);
 }
-</style> 
+</style>
